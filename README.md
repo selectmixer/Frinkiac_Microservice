@@ -33,3 +33,7 @@ When a user or project requests data as above, the microservice will automatical
 - Everything else will be a string.
 
 This response can be viewed, stored or used by a user in a variety of different ways by the user or project accessing this data. For example, the JSON object can be stored in a variable and accessed.
+
+### UML DIAGRAM
+![image](https://user-images.githubusercontent.com/50310662/180667424-dff19a89-68fe-41a6-a08e-05509904fdb5.png)
+
