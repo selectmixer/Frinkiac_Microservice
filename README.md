@@ -3,7 +3,7 @@
 This microservice will provide a random image still from the TV show Simpsons, along with the corresponding relevant metadata for that still (episode, airdate, etc.).
 
 This microservice server can be run on localhost, with a specified port (default: 8080).
-When called, the server will retrieve data from the required Frinkiac API and return a random image link, + corresponding metadata, as a JSON object.
+When called, the server will retrieve data from the required Frinkiac API, filter for relevant data, and return a random image link, + relevant metadata, as a JSON object.
 
 This microservice depends on the Frinkiac API. This microservice requires Node, Express, Axios to run.
 
