@@ -1,4 +1,4 @@
-FRINKIAC - RANDOM SIMPSONS IMAGE MICROSERVICE
+FRINKIAC - RANDOM SIMPSONS IMAGE MICROSERVICE 
 This microservice server can be run on localhost, with a specified port (default: 8080).
 When called, the server will retrieve data from the required Frinkiac API and return a random image link, + corresponding metadata, as a JSON object.
 
