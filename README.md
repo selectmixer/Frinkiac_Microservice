@@ -28,7 +28,7 @@ When a user or project requests data as above, the microservice will automatical
 
 >Episode, Timestamp, Title, Director, Writer, Airdate, Image, Subtitles
 
-- ‘Image’ will be a URL link to the image.
+- ‘Image’ will be a URL to the image.
 
 - ‘Subtitles’ will be an array of strings.
 
