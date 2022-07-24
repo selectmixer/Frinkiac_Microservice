@@ -24,7 +24,7 @@ For example, when this microservice is running, a user or project can access `lo
 
 ### HOW TO RECEIVE DATA
 
-When a user or project requests data as above, the microservice will return as a response a random image + metadata, in JSON. The JSON object will have the following keys:
+When a user or project requests data as above, the microservice will automatically return as a response a random image link + metadata, in JSON. The JSON object will have the following keys:
 
 >Episode, Timestamp, Title, Director, Writer, Airdate, Image, Subtitles
 
@@ -36,4 +36,4 @@ When a user or project requests data as above, the microservice will return as a
 
 - Everything else will be a string.
 
-
+This response can be viewed, stored or used by a user in a variety of different ways by the user or project accessing this data. For example, the JSON object can be stored in a variable and accessed.
