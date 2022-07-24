@@ -35,7 +35,9 @@ When a user or project requests data as above, the microservice will automatical
 This response can be viewed, stored or used by a user in a variety of different ways by the user or project accessing this data. For example, the JSON object can be stored in a variable and accessed.
 
 ### UML DIAGRAM
-![image](https://user-images.githubusercontent.com/50310662/180667424-dff19a89-68fe-41a6-a08e-05509904fdb5.png)
+
+![image](https://user-images.githubusercontent.com/50310662/180667654-c6deb469-7d32-409d-b091-f91df5fa8034.png)
+<!-- ![image](https://user-images.githubusercontent.com/50310662/180667424-dff19a89-68fe-41a6-a08e-05509904fdb5.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/50310662/180667507-9e4a9f56-61bc-4623-afd7-92f40e3cf285.png) -->
 
 
